@@ -1,0 +1,9 @@
+# Clacky-related configuration
+.1024*
+.breakpoints
+!.1024
+
+# Node specific
+node_modules
+npm-debug.log
+*.lock
