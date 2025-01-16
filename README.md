@@ -1,10 +1,10 @@
-# react-router v6 starter in js, not ts
+# react-router v6 starter in js, not ts 11
 
 # quickstart
 
 ```shell
-npm i
-npm start
+yarn
+yarn start
 ```
 
 - open http://localhost:8080
