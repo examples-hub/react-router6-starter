@@ -1,6 +1,6 @@
   # react-router v6 starter in js, not ts 11
 
-# quickstart 0119-1152
+# quickstart 0303
 
 ```shell
 yarn
@@ -9,6 +9,6 @@ yarn start
 
 - open http://localhost:8080
 
-# notes
+# notes 1228
 
 - test 
