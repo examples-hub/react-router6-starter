@@ -7,3 +7,17 @@
 node_modules
 npm-debug.log
 *.lock
+
+# Build outputs
+build/
+
+# Environment variables
+.env
+.env.local
+
+# OS specific
+.DS_Store
+
+# Package manager logs
+yarn-debug.log*
+yarn-error.log*
